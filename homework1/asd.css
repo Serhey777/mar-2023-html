@@ -1,0 +1,26 @@
+body{
+    background: antiquewhite;
+}
+h2 {
+    background: cornflowerblue;
+    color: green;
+}
+a{
+    color: aqua;
+    text-decoration: none;
+}
+p{
+    background: silver;
+    color: mediumpurple;
+    text-align: justify;
+}
+ul > {
+    background: red;
+    color: white;
+}
+li{
+    background: mediumblue;
+}
+img{
+    width: 200px;
+}
